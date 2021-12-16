@@ -1,5 +1,8 @@
 # TouchDirectory-Oxygen-Gridbuilder
 https://www.touchdirectory.ca/
+
+Same info as below in a cleaener format: https://docs.zohopublic.com/file/31nvpe750d8457c1f482cb95f2e25164b8b48
+
 This site is created in Oxygen builder and gridbuilder in order to be used for 3 main use cases for different of clients.
 
 Use cases are: 
