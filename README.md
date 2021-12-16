@@ -4,7 +4,7 @@ This site is created in Oxygen builder and gridbuilder in order to be used for 3
 
 Use cases are: 
 
-1. Building Directory: includes some or all of the following:
+1. Building Directory (vertical): https://www.touchdirectory.ca/home-2/ includes some or all of the following:
 Pages 
 Menu if multiple pages pages.
 Supports filtering (no search)
@@ -25,7 +25,7 @@ name
 Table number
 one page only 
 
-3. Builders Listings: Includes: 
+3. Builders Listings: (horizontal) https://www.touchdirectory.ca/home-3/ Includes: 
 
 Pages: based on the type of info they need to display (project details, site plan etc.) 
 Menu (if multiple pages)
