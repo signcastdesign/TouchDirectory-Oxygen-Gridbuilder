@@ -20,7 +20,7 @@ Floor number
 Suite number
 'Details' button that redirects to a page with more info or a floormap. 
 
-2. Seaty (event/wedding digital seating chart): Includes: 
+2. Seaty (event/wedding digital seating chart):https://www.touchdirectory.ca/seaty/ Includes: 
 Search
 Filtering by table number
 Data: 
